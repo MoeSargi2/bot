@@ -11,11 +11,11 @@
   "logo": "https://discord.js.org/static/logo-square.png",
   "success_url": "/welcome",
   "env": {
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {NjMzNjM1MjYyNjMwNTkyNTIy.XaW2lg.grUEanOnc-gdfTR4Das-NieeKCA
       "description": "A Secret Bot Token, Used To Login The BOT. Get The Token In Your App Settings.",
       "value": ""
     },
-    "PREFIX": {
+    "PREFIX": {!
       "description": "A Prefix To Run Your Bot Commands.",
       "value": ""
     }
